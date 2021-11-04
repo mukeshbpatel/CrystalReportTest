@@ -4,8 +4,6 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
-    
-
     <CR:CrystalReportViewer ID="CrystalReportViewer1" runat="server" AutoDataBind="True"
         GroupTreeImagesFolderUrl="" Height="1202px" ReportSourceID="CrystalReportSource1" ToolbarImagesFolderUrl="" ToolPanelWidth="200px" Width="1104px" EnableDatabaseLogonPrompt="False" EnableParameterPrompt="False" ToolPanelView="None" />
 <CR:CrystalReportSource ID="CrystalReportSource1" runat="server">
